@@ -47,7 +47,7 @@ Visualisation tools
 
 Tableau was used to create a visual representation of the data and communicate insights and trend patterns. Click [here] for visualization and dashboard
 
-PHASE 4: ANALYZE AND SHARE
+### PHASE 4: ANALYZE AND SHARE
 
 For proper analysis, I was required to remove errors contained in the data.  This was done by checking for duplicates, standardizing data and time formats, correcting naming inconsistencies and removal of null values from same.
 
@@ -126,7 +126,7 @@ The above map visualization displays user end locations. The darker the density 
 
 
 RECOMMENDATIONS
-
+---
 1.	Creating a membership plan that specifically caters to needs of casual riders. An example would be a plan designed to focus/cover routes frequently visited. 
 
 2.	Considering causal riders have a high demand preference for e-bikes, and make long commutes, offer discounted ride rates on e-bikes, or apply free minutes to same on specific days and times. A good example of this can be drawn from average trip length per day of week, where we saw that on average, days with longer trips were; Sunday, Monday, Friday, and Saturday. In such situation, encourage causal riders with discounts or free minutes on such days.
