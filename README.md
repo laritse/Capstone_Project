@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Bike_Share_Image.jpg" width="800" height="500" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Bike_Share_Image.jpg" width="600" height="300" />
 	
 # CASE STUDY - How does a bike-share navigate speedy success?
 
