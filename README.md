@@ -39,7 +39,7 @@ Note that as a result of Data-privacy issues, personally identifiable informatio
 
 Cleaning Tools
 
-Dataset was very large, with over 5 million rows and required a tool capable of managing same. I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
+First of all, considering Dataset was very large, with over 5 million rows and required a tool capable of managing same, I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
 
 Data was riddled with errors and required cleaning using BigQuery. To view my data cleaning and manipulation via same, click here
 
@@ -81,7 +81,7 @@ Considering peak times, it is evident that annual members often commute to work 
 <img src="https://github.com/laritse/Capstone_Project/blob/main/Bike_Preference.png" width="450" height="300" />
 
 
-We can see that when comparing user bike preference, both differ. 50% of annual members prefer traditional bikes in comparison to electric bikes, which accounts for the remaining 49%. In the case of casual riders, 53% prefer Electric bikes. 
+We can see that when comparing user bike preference, both differ. 50% of annual members prefer traditional bikes in comparison to electric bikes, which accounts for the remaining 49%. In the case of casual riders, 53% prefer Electric bikes whilst the remaining 46% prefer the traditional bikes. 
 
 4.	Average Trip Length Per Day of Week/Season
 
@@ -100,7 +100,7 @@ The above visualizations represent the average trip length by both user type. It
 
 The above diagrams have similar patterns with casual riders having longer trips. In the first visualization, it is evident that all through the week, casual riders make longer commutes, most significantly on Monday, Friday and weekends. However, this is different for annual members as there is barely any change all week. 
 
-In the second visualization, we get more insights on seasonal trip duration. There seem to be a seasonal effect on User Type, and from the above, we can see that hotter months (Summer) appear to have longer trips compared to colder months (Winter) which shows a decrease in ride lengths for both user type, most significantly in casual riders. This suggest that casual riders make the shortest trips in the months of winter. We can also see that although colder months appear to have an effect on both user type, the change in trip length is insignificant on annual members.
+In the second visualization, we get more insights on seasonal trip duration. There seem to be a seasonal effect on User Type, and from the above, we can see that hotter months (Summer) appear to have longer trips compared to colder months (Winter) which shows a decrease in ride lengths for both user type, most significantly in casual riders. This suggest that casual riders make shorter trips in the winter compared to other seasons. We can also see that although colder months appear to have an effect on both user type, the change in trip length is insignificant on annual members.
 
 
 5.	Ride distribution Per Season
@@ -122,20 +122,20 @@ The above visualization displays seasons totalling the most and least rides by e
 <p align = "center">
 <img src="https://github.com/laritse/Capstone_Project/blob/main/Casual_Ride_End_Locations.png" width="450" height="300" />
 
-The above map visualization displays user end locations. The darker the density represents a large volume of commuters. According to the map, annual members are scattered around the map whilst casual riders are concentrated around specific tourist locations. This further suggest that annual members often commute to work with the cyclistic bikes and casual riders use same for leisure purpose.
+The above map visualization displays user end locations. The darker the density represents a large volume of commuters. According to the map, annual members are scattered around the map whilst casual riders are concentrated around specific tourist locations. This further confirms that annual members mostly commute to work with cyclistic bikes whereas casual riders use same for leisure purpose.
 
 
 RECOMMENDATIONS
 ---
 1.	Creating a membership plan that specifically caters to needs of casual riders. An example would be a plan designed to focus/cover routes frequently visited. 
 
-2.	Considering causal riders have a high demand preference for e-bikes, and make long commutes, offer discounted ride rates on e-bikes, or apply free minutes to same on specific days and times. A good example of this can be drawn from average trip length per day of week, where we saw that on average, days with longer trips were; Sunday, Monday, Friday, and Saturday. In such situation, encourage causal riders with discounts or free minutes on such days.
+2.	Considering causal riders have a high demand preference for e-bikes, and make long commutes. Offer discounted ride rates on e-bikes, or apply free minutes to same on specific days and times. A good example of this can be drawn from average trip length per day of week, where we saw that on average, days with longer trips were; Sunday, Monday, Friday, and Saturday. In such situation, encourage causal riders with discounts or free minutes on such days.
 
 3.	The use of digital media to influence casual rider’s decisions by means of creating engaging content consistently through owned media such as blogs, websites and social media platforms. 
 
 Secondly, use of paid media such as investing in ad spaces to generate awareness. 
 
-Note: For effective marketing strategy, ad focus should target seasons that produced larger number of rides.
+Note: For effective marketing strategy, ad focus should target seasons that produced larger number of rides based on analysis.
 
 
 
