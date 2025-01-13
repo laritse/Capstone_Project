@@ -59,7 +59,7 @@ The following are insights from my analysis and visualization that can provide a
 
 1.	Customer Ride Distribution 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Customer_ride_distribution.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Customer_ride_distribution.png" width="450" height="300" />
 
 From the visualization above, we see that there is a huge difference in total bike rides by user type, with members having a total of 3,587,482 rides, in comparison to casual riders that have a total of 2,017,458 rides. This suggest that members use Cyclistic bike-share more often than casual riders.
 
@@ -67,7 +67,7 @@ From the visualization above, we see that there is a huge difference in total bi
 2.	Ride Hours and Peak Points
 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Ride_Hours.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Ride_Hours.png" width="450" height="300" />
 
 
 From the above, we can see that the demand in bikes varies amongst user type. For annual members, there is an increase in demand for bikes at 8am and 5pm. However, this is not the case with casual riders, as peak times begin at 12pm and 5pm. Moreso, throughout the day, 
@@ -78,7 +78,7 @@ Considering peak times, it is evident that annual members often commute to work 
 3.	Bike Preference
 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Bike_Preference.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Bike_Preference.png" width="450" height="300" />
 
 
 We can see that when comparing user bike preference, both differ. 50% of annual members prefer traditional bikes in comparison to electric bikes, which accounts for the remaining 49%. In the case of casual riders, 53% prefer Electric bikes whilst the remaining 46% prefer the traditional bikes. 
@@ -87,10 +87,10 @@ We can see that when comparing user bike preference, both differ. 50% of annual 
 
 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Average_Trip_Length.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Average_Trip_Length.png" width="450" height="300" />
 	
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Average_Trip_Length_Season.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Average_Trip_Length_Season.png" width="450" height="300" />
 
 
 
@@ -106,7 +106,7 @@ In the second visualization, we get more insights on seasonal trip duration. The
 5.	Ride distribution Per Season
 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Ride_Distribution_Season.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Ride_Distribution_Season.png" width="450" height="300" />
 
 
 The above visualization displays seasons totalling the most and least rides by each user type. Arranged in hierarchical order, summer appears to have the most rides for both user type, and winter being the season with the least rides. We can see that there is a significant reduction of casual riders in winter compared to annual members. 
@@ -117,7 +117,7 @@ The above visualization displays seasons totalling the most and least rides by e
 
 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Members_Ride_End_Locations.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Members_Ride_End_Locations.png" width="450" height="300" />
 
 <p align = "center">
 <img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Casual_Ride_End_Locations.png" width="450" height="300" />
