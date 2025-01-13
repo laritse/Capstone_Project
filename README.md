@@ -120,7 +120,8 @@ The above visualization displays seasons totalling the most and least rides by e
 <img src="https://github.com/laritse/Capstone_Project/blob/main/Members_Ride_End_Locations.png" width="450" height="300" />
 
 <p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Casual_Ride_End_Locations.png" width="450" height="300" />
+<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Images/Casual_Ride_End_Locations.png" width="450" height="300" />
+
 
 The above map visualization displays user end locations. The darker the density represents a large volume of commuters. According to the map, annual members are scattered around the map whilst casual riders are concentrated around specific tourist locations. This further confirms that annual members mostly commute to work with cyclistic bikes whereas casual riders use same for leisure purpose.
 
