@@ -336,7 +336,7 @@ ORDER BY CASE
 
 ```
 
-Query to diaplay the number of rides by season as per member and bike type, including average trip duration for each season
+Query to diaplay the number of rides by season in relation to customer and bike type, including average trip duration for individual seasons
 
 ```sql
 
