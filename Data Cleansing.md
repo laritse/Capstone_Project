@@ -2,7 +2,7 @@
 
 Datasets were split in different tables. In order to work with all,
 it was required to append tables together to have all data in one table.
-The query statement below was used to join all tables, excluding columns not 
+The query statement below was used to join all tables whilst excluding columns not 
 crucial for analysis.
 
 ```sql
