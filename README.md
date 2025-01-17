@@ -41,9 +41,9 @@ Cleaning Tools
 
 First of all, considering Dataset was very large, with over 5 million rows and required a tool capable of managing same, I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
 
-Data was riddled with errors and required cleaning using BigQuery. To view my data cleaning and manipulation via same, click [here](Capstone_Project/Data_Cleansing.md)
+Data was riddled with errors and required cleaning using BigQuery. To view my data cleaning and manipulation via same, click [here](Data_Cleansing.md)
 
-Visualisation tools:
+Visualisation tools
 
 Tableau
 
