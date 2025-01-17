@@ -66,6 +66,7 @@ The following are insights from my analysis and visualization that can provide a
 From the visualization above, we see that there is a huge difference in total bike rides by user type, with members having a total of 3,587,482 rides, in comparison to casual riders that have a total of 2,017,458 rides. This suggest that members use Cyclistic bike-share more often than casual riders.
 
 To further understand how both customers use cyclistic bikes differently I decided to look at commute times to reveal more insights about ride behaviours and patterns. Below is the visualization and findings.
+
 2.	Ride Hours and Peak Points
 
 <p align = "center">
