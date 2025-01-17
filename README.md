@@ -41,13 +41,13 @@ Cleaning Tools
 
 First of all, considering Dataset was very large, with over 5 million rows and required a tool capable of managing same, I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
 
-Data was riddled with errors and required cleaning using BigQuery. To view my data cleaning and manipulation via same, click here
+Data was riddled with errors and required cleaning using BigQuery. To view my data cleaning and manipulation via same, click [here]
 
 Visualisation tools:
 
 Tableau
 
-The above was used to create a visual representation of the data and communicate insights and trend patterns. Click [here] to view dynamic dashboard
+The above was used to create a visual representation of the data and communicate insights and trend patterns. To view dynamic dashboard click [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/CasualDashboard)
 
 ### PHASE 4: ANALYZE AND SHARE
 
