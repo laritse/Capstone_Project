@@ -3,16 +3,21 @@
 	
 # CASE STUDY - How does a bike-share navigate speedy success?
 
+- [Introduction](#introduction)
+- [Data Source](#data-source)
+- [Data Cleansing](#data-cleansing)
+- [Presentation of Analysis](#presentation-of-analysis)
+- [Recommendations](#recommendations)
+
+### INTRODUCTION
+
 SCENARIO
----
+
 As a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share
 company in Chicago. The director of marketing believes the company’s future success
 depends on maximizing the number of annual memberships. Therefore, your team wants to
 understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual
 members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
-
-
-### PHASE 1: ASK
 
 BUSINESS TASK: How do annual members and casual riders use Cyclistic bikes differently?
 
@@ -22,9 +27,9 @@ Busineess Questions
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-### PHASE 2: PREPARE
 
-Data Source
+
+### DATA SOURCE
 
 This data was made available to the public by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). The company in question is fictional and with a different name known as Cyclistic for the purpose of this case study. I have selected 12 months’ worth of data comprising from the 1st of January 2023 – 31st of December 2023. These Datasets can be found [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
@@ -35,26 +40,26 @@ Datasets were organized and compiled on a monthly basis, making it easy to uncov
 Note that as a result of Data-privacy issues, personally identifiable information were not provided as such is prohibited.
 
 
-### PHASE 3: PROCESS
+### DATA CLEANSING
 
 Cleaning Tools
+- Google Bigquery
 
-First of all, considering Dataset was very large, with over 5 million rows and required a tool capable of managing same, I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
+Firstly, considering Dataset was very large, with over 5 million rows and required a tool capable of managing same, I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
 
-Data was riddled with errors and required cleaning using BigQuery. To view my data cleaning and manipulation via same, click [here](Data_Cleansing.md)
+Data was riddled with errors and required cleaning using BigQuery. For proper analysis, I was required to remove errors contained in the data.  This was done by checking for duplicates, standardizing data and time formats, correcting naming inconsistencies and removal of null values from same. To view my data cleaning and manipulation via same, click [here](Data_Cleansing.md)
 
 Visualisation tools
 
-Tableau
+- Tableau
 
-The above was used to create a visual representation of the data and communicate insights and trend patterns. To view dynamic dashboard click [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/CasualDashboard)
-
-### PHASE 4: ANALYZE AND SHARE
-
-For proper analysis, I was required to remove errors contained in the data.  This was done by checking for duplicates, standardizing data and time formats, correcting naming inconsistencies and removal of null values from same.
+The above was used to create a visual representation of the data and communicate insights and trend patterns. 
 
 
-In order to illustrate how casual riders and annual members use Cyclistic bike-share differently, I created a visualization to effectively communicate this. The dashboard viz can be accessed [here].
+In order to illustrate how casual riders and annual members use Cyclistic bike-share differently, I created a visualization to effectively communicate this. The dashboard viz can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/CasualDashboard)
+
+
+### PRESENTATION OF ANALYSIS
 
 The following are insights from my analysis and visualization that can provide answers to the business question.
 
@@ -136,7 +141,7 @@ The above map visualization displays user end locations. The darker the density 
 
 In light of the findings above, below are my recommendations
 
-RECOMMENDATIONS
+### RECOMMENDATIONS
 ---
 1.	Create a membership plan that specifically caters to needs of casual riders. An example would be a plan designed to focus/cover routes frequently visited by casual riders. 
 
