@@ -151,7 +151,7 @@ In light of the findings above, below are my recommendations
 
 Secondly, use of paid media such as investing in ad spaces to generate awareness. 
 
-Note: For effective marketing strategy, ad focus should target seasons that produced larger number of rides based on analysis.
+Note: For effective marketing strategy, ad focus should target seasons with increased demand in rides based on analysis.
 
 
 
