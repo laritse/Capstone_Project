@@ -143,7 +143,7 @@ In light of the findings above, below are my recommendations
 
 ### RECOMMENDATIONS
 ---
-1.	Create a membership plan that specifically caters to needs of casual riders. An example would be a plan designed to focus/cover routes frequently visited by casual riders. 
+1.	Create a membership plan that specifically caters to needs of casual riders. An example would be a plan designed to focus or cover routes frequently visited by casual riders. 
 
 2.	Considering causal riders have a high preference for e-bikes, and also make long commutes. Offer discounted ride rates on e-bikes, or apply free minutes to same on specific days and times. A good example of this can be drawn from average trip length per day of week, where we saw that on average, days with longer trips were; Sunday, Monday, Friday, and Saturday. In such situation, encourage causal riders with discounts or free minutes on such days.
 
