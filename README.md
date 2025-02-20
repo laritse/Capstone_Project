@@ -47,7 +47,7 @@ Cleaning Tools
 
 Firstly, considering Dataset was very large, with over 5 million rows and required a tool capable of managing same, I considered Google BigQuery as a perfect tool for processing, easy data manipulation and analysis.
 
-Data was riddled with errors and required cleaning using BigQuery. For proper analysis, I was required to remove errors contained in the data.  This was done by checking for duplicates, standardizing data and time formats, correcting naming inconsistencies and removal of null values from same. To view my data cleaning and manipulation via same, click [here](Data_Cleansing.md)
+Data was riddled with errors and required cleaning using BigQuery. For proper analysis, I was required to remove errors contained in the data.  This was done by checking for duplicates, standardizing date and time formats, correcting naming inconsistencies and removal of null values from same. To view my data cleaning and manipulation via same, click [here](Data_Cleansing.md)
 
 Visualisation tools
 
