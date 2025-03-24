@@ -122,22 +122,8 @@ Following my recent findings, I decided to investigate further to know if there 
 <img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Ride_Distribution_Season.png" width="450" height="300" />
 
 
-The above visualization displays seasons totalling the most and least rides by each user type. Arranged in hierarchical order, summer appears to have the most rides for both user type, and winter being the season with the least rides. We can see that there is a significant reduction of casual riders in winter compared to annual members.
+The above visualization displays seasons with the most and least amount of rides by each user type. The above chart strongly indicates that summer periods have   the higest number of rides amongst both user type, and winter being the season with the least amount of rides. There is a significant reduction of casual riders in winter compared to annual members.
 This appears to confirm earlier findings of seasonal effects on riders.
-
-Lastly, I decided to visualize end locations to understand user routes.
-
-6.	User ride end locations
-
-
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Members_Ride_End_Locations.png" width="450" height="300" />
-
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Casual_Ride_End_Locations.png" width="450" height="300" />
-
-
-The above map visualization displays user end locations. The darker the density represents a large volume of commuters. According to the map, annual members are scattered around the map whilst casual riders are concentrated around specific tourist locations. This further confirms that annual members mostly commute to work with cyclistic bikes whereas casual riders use same for leisure purpose.
 
 In light of the findings above, below are my recommendations
 
