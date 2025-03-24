@@ -60,15 +60,16 @@ The above was used to create a visual representation of the data and communicate
 ### SUMMARY OF ANALYSIS
 
 
-The following are insights from my analysis and visualization that can provide answers to the business question.
+
+The following insights and visualizations can provide answers to the business question.
 
 
-The dashboard can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
 
 ![image alt](https://github.com/laritse/Capstone_Project/blob/81cd741a3a5b14a9eae024cdb06fbbf8e920075e/Report%20Visualizations/Member_dashboard.png)
 
 
 ![image alt](https://github.com/laritse/Capstone_Project/blob/81cd741a3a5b14a9eae024cdb06fbbf8e920075e/Report%20Visualizations/Casual_riders_dashboard.png)
+
 
 1. #### Most Active Users 
 
@@ -95,6 +96,7 @@ Hourly trends differ greatly with both users. Members are in demand from the hou
 
 Ride trends are similar for both user types in seasonal periods, with Summer having the heaviest demands in bikes, and winter having the least demands in bikes. This is also synonymous with seasonal months as a difference in number of rides and trip duration is evident on both dashboards. This may suggest seasonal periods may impact ride numbers.
 
+The dashboard can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
 
 In light of the findings above, below are my recommendations
 
