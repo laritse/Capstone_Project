@@ -56,7 +56,7 @@ Visualisation tools
 The above was used to create a visual representation of the data and communicate insights and trend patterns. 
 
 
-In order to illustrate how casual riders and annual members use Cyclistic bike-share differently, I created a visualization to effectively communicate this. The dashboard viz can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/CasualDashboard)
+In order to illustrate how casual riders and annual members use Cyclistic bike-share differently, I created a visualization to effectively communicate this. The dashboard viz can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
 
 
 ### PRESENTATION OF ANALYSIS
