@@ -6,7 +6,7 @@
 - [Introduction](#introduction)
 - [Data Source](#data-source)
 - [Data Cleansing](#data-cleansing)
-- [Presentation of Analysis](#presentation-of-analysis)
+- [Summary of Analysis](#summary-of-analysis)
 - [Recommendations](#recommendations)
 
 ### INTRODUCTION
@@ -56,74 +56,45 @@ Visualisation tools
 The above was used to create a visual representation of the data and communicate insights and trend patterns. 
 
 
-In order to illustrate how casual riders and annual members use Cyclistic bike-share differently, I created a visualization to effectively communicate this. The dashboard viz can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
 
+### SUMMARY OF ANALYSIS
 
-### PRESENTATION OF ANALYSIS
 
 The following are insights from my analysis and visualization that can provide answers to the business question.
 
 
-1.	Customer Ride Distribution 
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Customer_ride_distribution.png" width="450" height="300" />
+The dashboard can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
 
-From the visualization above, we see that there is a huge difference in total bike rides by user type, with members having a total of 3,587,482 rides, in comparison to casual riders that have a total of 2,017,458 rides. This suggest that members use Cyclistic bike-share more often than casual riders.
-
-To further understand how both customers use cyclistic bikes differently I decided to look at commute times to reveal more insights about ride behaviours and patterns. Below is the visualization and findings.
-
-2.	Ride Hours and Peak Points
-
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Ride_Hours.png" width="450" height="300" />
+![image alt](https://github.com/laritse/Capstone_Project/blob/81cd741a3a5b14a9eae024cdb06fbbf8e920075e/Report%20Visualizations/Member_dashboard.png)
 
 
-From the viz above, we can see that demand in bikes varies amongst user type. For annual members, there is an increase in demand for bikes at 8am and 5pm. However, this is not the case with casual riders, as peak times begin at 10am and 5pm. Moreso, throughout the day there is a steady increase in demand for bikes by casual riders compared to annual members which shows a decrease in demand between the hours of 9 to 10am.
+![image alt](https://github.com/laritse/Capstone_Project/blob/81cd741a3a5b14a9eae024cdb06fbbf8e920075e/Report%20Visualizations/Casual_riders_dashboard.png)
 
-Considering peak times, it is evident annual members often commute to work with cyclistic bikes compared to casual riders that use same for leisure purpose.
+1. #### Most Active Users 
 
-The next thing I considered looking at was user preference in bikes as cyclistic have different bike types (e-bikes and classic bikes) available to customers. Below are the findings 
+The number of riders amounts to 5.6 million. Out of this stated number, Members appear to be the most active users with a total of 3.6 million riders and also having a greater percentage of riders with 64% in comparison to Casual riders that have 2 million active riders and a lower percentage of 36%. 
 
-3.	Bike Preference
+2. #### Bike Preference
 
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Bike_Preference.png" width="450" height="300" />
+The difference in bike preference is evident from both dashboards. Members use classic and electric bikes equally. However, Casual riders have greater preference for electric bikes in comparison to traditional classic bikes.
 
+3. #### Trip Duration
 
-We can see that when comparing user bike preference, both differ. 50% of annual members prefer traditional bikes in comparison to electric bikes, which accounts for the remaining 49%. In the case of casual riders, 53% prefer Electric bikes whilst the remaining 46% prefer the traditional bikes. 
+Trip duration amongst user types are quite significant, with members having an averge trip of 12.15 Mins and Casual riders having an average of 20.91 Mins. This may suggest Casual riders commute the longest.
 
-The next phase of investigation was to look at trip lengths of both users to reveal underlying trends in the data and the key to uncovering these insights was to get the average, which revealed the following in the viz below.
-NOTE: To gain more insights, I felt that analysing seasonal trip lenghts rather than individual months will reveal more behaviour patterns in the data.
+4. #### Active Days
 
-4.	Average Trip Length Per Day of Week/Season
+The total daily ride distribution gives user insights into their most active and least active days. The ride numbers for Members are at the highest on weekdays. The increase in ride numbers range from 485K to 578K, however at weekends there is a decline in ride numbers, falling to 401k. 
+This is the opposite for Casual riders with an increase in demand at weekends, ranging from 329k up to 402k. However on weekdays, there is a decline in ride numbers, falling to 230K. This may suggest Members are more active on weekdays, and Casual Riders are most active at weekends.
 
+5. #### Hourly Ride Trends
 
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Average_Trip_Length.png" width="450" height="300" />
-	
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Average_Trip_Length_Season.png" width="450" height="300" />
+Hourly trends differ greatly with both users. Members are in demand from the hours of 7 and 8am. However at 9pm there is a drop in demand which goes further until the hours of 3pm, with more significant increase in demand at 4pm, and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7 and 8am up until 5pm. The Peak periods for Members may suggest commutes to and from work. Considering Casual Riders are in constant demand for the bikes, this may suggest Casual riders not only commute to and from work with the bikes but increasingly use same for other activities.
 
+6. #### Seasonal Ride Frequencies
 
+Ride trends are similar for both user types in seasonal periods, with Summer having the heaviest demands in bikes, and winter having the least demands in bikes. This is also synonymous with seasonal months as a difference in number of rides and trip duration is evident on both dashboards. This may suggest seasonal periods may impact ride numbers.
 
-From the above visualizations, It is evident that casual riders make longer trips compared to annual members. We can also see that trip length pattern remains the same during seasonal periods, however colder months (winter) appear to have an effect on casual riders, but not so much on annual members. 
-
-
-
-The above diagrams have similar patterns with casual riders having longer trips. In the first visualization, it is evident that all through the week, casual riders make longer commutes, most significantly on Monday, Friday and weekends. However, this is different for annual members as there is barely any change all week. 
-
-In the second visualization, we get more insights on seasonal trip duration. There seem to be a seasonal effect on User Type, and from the above, we can see that hotter months (Summer) appear to have longer trips compared to colder months (Winter) which shows a decrease in ride lengths for both user type, most significantly in casual riders. This suggest that casual riders make shorter trips in winter compared to other seasons. We can also see that although colder months appear to have an effect on both user type, the change in trip length is insignificant on annual members.
-
-Following my recent findings, I decided to investigate further to know if there is a seasonal effect on riders and below are my findings.
-
-5.	Ride distribution by Season
-
-<p align = "center">
-<img src="https://github.com/laritse/Capstone_Project/blob/main/Report Visualizations/Ride_Distribution_Season.png" width="450" height="300" />
-
-
-The above visualization displays seasons with the most and least amount of rides by each user type. The above chart strongly indicates that summer periods have   the higest number of rides amongst both user type, and winter being the season with the least amount of rides. There is a significant reduction of casual riders in winter compared to annual members.
-This appears to confirm earlier findings of seasonal effects on riders.
 
 In light of the findings above, below are my recommendations
 
@@ -137,7 +108,7 @@ In light of the findings above, below are my recommendations
 
 Secondly, use of paid media such as investing in ad spaces to generate awareness. 
 
-Note: For effective marketing strategy, ad focus should target seasons with increased demand in rides based on analysis.
+Note: For effective marketing strategy, ad focus should target seasons with increased ride demands based on analysis.
 
 
 
