@@ -89,7 +89,7 @@ This is the opposite for Casual riders with an increase in demand at weekends, r
 
 5. #### Hourly Ride Trends
 
-Hourly trends differ greatly with both users. Members are in demand from the hours of 7 and 8am. However at 9pm there is a drop in demand which goes further until the hours of 3pm, with more significant increase in demand at 4pm, and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7 and 8am up until 5pm. The Peak periods for Members may suggest commutes to and from work. Considering Casual Riders are in constant demand for the bikes, this may suggest Casual riders not only commute to and from work with the bikes but increasingly use same for other activities.
+Hourly trends differ greatly with both users. Members are in demand from the hours of 7 and 8am. However at 9am there is a drop in demand which goes further until the hours of 3pm, with more significant increase in demand at 4pm, and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7 and 8am up until 5pm. The Peak periods for Members may suggest commutes to and from work. Considering Casual Riders are in constant demand for bikes, this may suggest Casual riders not only commute to and from work with the bikes but increasingly use same for other activities.
 
 6. #### Seasonal Ride Frequencies
 
