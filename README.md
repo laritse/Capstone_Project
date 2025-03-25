@@ -73,7 +73,7 @@ The following insights and visualizations can provide answers to the business qu
 
 1. #### Most Active Users 
 
-The number of riders amounts to 5.6 million. Out of this stated number, Members appear to be the most active with a total of 3.6 million riders, and also having a greater percentage of riders at 64% in comparison to Casual riders that have 2 million and a lower rider percentage at 36%. 
+The total number of riders amounts to 5.6 million. Out of this stated number, Members appear to be the most active with a total of 3.6 million riders, and also having a greater percentage of riders at 64% in comparison to Casual riders that accounts for 2 million and a lower rider percentage at 36%. 
 
 2. #### Bike Preference
 
@@ -90,13 +90,13 @@ This is the opposite for Casual riders with an increase in demand at weekends, r
 
 5. #### Hourly Ride Trends
 
-Hourly trends differ greatly with both users. Members are in demand from the hours of 7 and 8am. However at 9am there is a drop in demand which goes further until the hours of 3pm, with more significant increase in demand at 4pm, and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7 and 8am up until 5pm. The Peak periods for Members may suggest commutes to and from work. Considering Casual Riders are in constant demand for bikes, this may suggest Casual riders not only commute to and from work with the bikes but increasingly use same for other activities.
+Hourly trends differ greatly with both users. Members are in demand from the hours of 7am and 8am. However at 9am there is a drop in demand until the hours of 3pm, with more significant increase in demand at 4pm, and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7am and 8am up until 5pm. The Peak periods for Members may suggest commutes to, and from work. Moreso, considering Casual Riders are in constant demand for bikes, this may suggest Casual riders not only commute to, and from work with the bikes, but increasingly use same for other activities.
 
 6. #### Seasonal Ride Frequencies
 
 Ride trends are similar for both user types in seasonal periods, with Summer having the heaviest demands in bikes, and winter having the least demands in bikes. This is also synonymous with seasonal months as a difference in number of rides and trip duration is evident on both dashboards. This may suggest seasonal periods may impact ride numbers.
 
-The dashboard can be accessed [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
+For more insights, access to the dashboard can be found [here](https://public.tableau.com/app/profile/ola.beji/viz/CyclisticUserDashboard/MemberDashboard)
 
 In light of the findings above, below are my recommendations
 
