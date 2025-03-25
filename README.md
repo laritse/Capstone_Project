@@ -65,7 +65,7 @@ The following insights and visualizations can provide answers to the business qu
 
 
 
-![image alt](https://github.com/laritse/Capstone_Project/blob/7b36f3c4be61e7a1286edfe3e3d952a5621d8b24/Dashboard%20Viz/Member_dashboard.png)
+
 
 
 ![image alt](https://github.com/laritse/Capstone_Project/blob/b65ebb3f3eb4fcea09e391923cad14ac0ba482b3/Dashboard%20Viz/Casual_riders_dashboard.png)
