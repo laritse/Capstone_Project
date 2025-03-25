@@ -108,7 +108,7 @@ In light of the findings above, below are my recommendations
 
 3.	The use of digital media to influence casual rider’s decisions by means of creating engaging content consistently through owned media such as blogs, websites and social media platforms. 
 
-Secondly, use of paid media such as investing in ad spaces to generate awareness. 
+Secondly, use of paid media such as investing in ad spaces can generate awareness. 
 
 Note: For effective marketing strategy, ad focus should target seasons with increased ride demands based on analysis.
 
