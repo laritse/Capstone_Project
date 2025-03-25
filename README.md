@@ -73,7 +73,7 @@ The following insights and visualizations can provide answers to the business qu
 
 1. #### Most Active Users 
 
-The number of riders amounts to 5.6 million. Out of this stated number, Members appear to be the most active users with a total of 3.6 million riders and also having a greater percentage of riders with 64% in comparison to Casual riders that have 2 million active riders and a lower percentage of 36%. 
+The number of riders amounts to 5.6 million. Out of this stated number, Members appear to be the most active with a total of 3.6 million riders, and also having a greater percentage of riders at 64% in comparison to Casual riders that have 2 million and a lower rider percentage at 36%. 
 
 2. #### Bike Preference
 
