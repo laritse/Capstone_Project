@@ -64,7 +64,9 @@ The above was used to create a visual representation of the data and communicate
 The following insights and visualizations can provide answers to the business question.
 
 
+![image alt](https://github.com/laritse/Capstone_Project/blob/d8fe5a394f1af17aec08d63ce2a9931517a70970/Dashboard%20Viz/Member_dashboard.png)
 
+![image alt](https://github.com/laritse/Capstone_Project/blob/d8fe5a394f1af17aec08d63ce2a9931517a70970/Dashboard%20Viz/Member_dashboard.png)
 
 
 
