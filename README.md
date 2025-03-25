@@ -65,10 +65,10 @@ The following insights and visualizations can provide answers to the business qu
 
 
 
-![image alt](https://github.com/laritse/Capstone_Project/blob/81cd741a3a5b14a9eae024cdb06fbbf8e920075e/Report%20Visualizations/Member_dashboard.png)
+![image alt]()
 
 
-![image alt](https://github.com/laritse/Capstone_Project/blob/81cd741a3a5b14a9eae024cdb06fbbf8e920075e/Report%20Visualizations/Casual_riders_dashboard.png)
+![image alt]()
 
 
 1. #### Most Active Users 
