@@ -53,7 +53,7 @@ Visualisation tools
 
 - Tableau
 
-The above was used to create a visual representation of the data and communicate insights and trend patterns. 
+The above was used to create a visual representation of the data and communicate insights and trends. 
 
 
 
