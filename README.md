@@ -88,7 +88,7 @@ Trip duration amongst user types are quite significant, with members having an a
 4. #### Active Days
 
 The total daily ride distribution gives user insights into their most active and least active days. The ride numbers for Members are at the highest on weekdays. The increase in ride numbers range from 485K to 578K, however at weekends there is a decline in ride numbers, falling to 401k. 
-This is the opposite for Casual riders with an increase in demand at weekends, ranging from 329k up to 402k. However on weekdays, there is a decline in ride numbers, falling to 230K. This may suggest Members are more active on weekdays, and Casual Riders are most active at weekends.
+This is the opposite for Casual riders as the weekend appears to have the highest number of rides, ranging from 329k up to 402k. However on weekdays, there is a decline in ride numbers, falling to 230K. This may suggest Members are more active on weekdays, and Casual Riders are most active at weekends.
 
 5. #### Hourly Ride Trends
 
