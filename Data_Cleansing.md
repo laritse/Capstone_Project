@@ -111,7 +111,7 @@ end_station_name = '410'
 ```
 
 Discovered a large number of null values in the data, mostly station names and lng and lat columns.
-checking the number of null values in both the lng and lat columns. In total there are 7346
+checking the number of null values in both the lng and lat columns. In total, there are 7346
 
 ```sql
 SELECT 
