@@ -120,7 +120,7 @@ FROM liquid-cumulus-411017.divvy_tripdata_2023.combined_tripsV1
 WHERE start_lat IS NULL OR start_lng IS NULL OR end_lat IS NULL OR end_lng IS NULL
 ```
 
-Checking the number of null values in both start and end stations. A total of 1423176 rows with null values exist. deleting this much rows will skew the data, therefore both columns will be ignored in order to prevent the appearance of null values in analysis. Considering lng and lat columns have lower existence of null values, these rows will be deleted, and respective columns used for analysis.
+Checking the number of null values in both start and end stations. A total of 1423176 rows with null values exist. deleting this much rows will skew the data, therefore both columns will be ignored in order to prevent the appearance of null values in analysis. Considering lng and lat columns have lower existence of null values, these rows will be deleted, and the respective columns will be maintained for analysis.
 
 ```sql
 SELECT 
