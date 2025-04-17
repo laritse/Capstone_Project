@@ -87,12 +87,12 @@ Trip duration amongst user types are quite significant, with members having an a
 
 4. #### Active Days
 
-The total daily ride distribution gives user insights into their most active and least active days. The ride numbers for Members are at the highest on weekdays. The increase in ride numbers range from 485K to 578K, however at weekends there is a decline in ride numbers, falling to 401k. 
-This is the opposite for Casual riders as the weekend appears to have the highest number of rides, ranging from 329k up to 402k. However on weekdays, there is a decline in ride numbers, falling to 230K. This may suggest Members are more active on weekdays, and Casual Riders are most active at weekends.
+The total daily ride distribution gives user insights into their most active and least active days. The ride numbers for Members are at the highest on weekdays. Increase in ride numbers range from 485K to 578K, however at weekends there is a decline in ride numbers, falling to 401k. 
+This is the opposite for Casual riders as the weekend appears to have the highest number of rides, ranging from 329k up to 402k. However, on weekdays, there is a decline in ride numbers, falling to 230K. This may suggest Members are more active on weekdays, and Casual Riders are most active at weekends.
 
 5. #### Hourly Ride Trends
 
-Hourly trends differ greatly with both users. Members are in demand from the hours of 7am and 8am. However at 9am there is a drop in demand until the hours of 3pm, with more significant increase in demand at 4pm, and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7am and 8am up until 5pm. The Peak periods for Members may suggest commutes to, and from work. Moreso, considering Casual Riders are in constant demand for bikes, this may suggest Casual riders not only commute to, and from work with the bikes, but increasingly use same for other activities.
+Hourly trends differ greatly with both users. Members are in demand from the hours of 7am and 8am. However at 9am there is a drop in demand until the hours of 3pm, with more significant increase in demand at 4pm and 5pm. For Casual riders, there is a steady increase in demand from the hours of 7am and 8am up until 5pm. Peak periods for Members may suggest commutes to and from work. Moreso, considering Casual Riders are in constant demand for bikes, it may suggest Casual riders not only commute to and from work with the bikes, but increasingly use same for other activities.
 
 6. #### Seasonal Ride Frequencies
 
